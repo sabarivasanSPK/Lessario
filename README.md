@@ -41,3 +41,5 @@ We have restructured the project into specialized departments to keep assets and
 ---
 
 > **Note**: If you are using **Shotcut** and see "Missing Files" warnings, simply point the search to the `02_Art_Department` folder!
+
+test commit
